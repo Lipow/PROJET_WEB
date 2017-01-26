@@ -3,8 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>ConnectLife-Home</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
   </head>
   <body>
+
+    <?php require("html/header.html"); ?>
+
     <div class="Message">
       <h1>Bienvenue,</h1>
         <p>Dans un soucis de qualité, notre société souhaite procéder à une mise à jour de son fichier client.<br>
